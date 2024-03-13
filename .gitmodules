@@ -1,3 +1,6 @@
 [submodule "lib/osu-parsers"]
 	path = lib/osu-parsers
 	url = https://github.com/pushfq/osu-parsers/
+[submodule "lib/ctfp"]
+	path = lib/ctfp
+	url = https://github.com/pushfq/ctfp
